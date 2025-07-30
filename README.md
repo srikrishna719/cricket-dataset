@@ -46,7 +46,7 @@ pip install pandas numpy scikit-learn xgboost matplotlib seaborn
 ## 🚀 Getting Started
 ### 📥 Clone the Repository:
 ```bash
-git clone https://github.com/srikrishna719/ipl-score-predictor.git
+git clone https://github.com/srikrishna719/IPL-score-predictor.git
 ```
 
 ## 🛠 Usage
@@ -62,9 +62,6 @@ git clone https://github.com/srikrishna719/ipl-score-predictor.git
 - 🔄 SVR
 - 🌳 Decision Tree Regressor
 
-## 🎛 Hyperparameter Optimization
-Optuna was used for parameter optimization, ensuring better accuracy and performance.
-
 ## 🏆 Results
 - ✅ Accurate predictions for total runs based on historical match data.
 - 📊 Insights into how various factors like team performance and match conditions influence scores.
@@ -74,5 +71,3 @@ Optuna was used for parameter optimization, ensuring better accuracy and perform
 - 🧠 Inspired by cricket analytics and real-time match predictions.
 
 ---
-
-🎉 *Happy predicting!*
